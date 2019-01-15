@@ -116,7 +116,7 @@ img::-moz-selection {
 #mainNav .navbar-toggler {
   font-size: 12px;
   right: 0;
-  padding: 13px;
+  padding: 15px;
   text-transform: uppercase;
   color: white;
   border: 0;
@@ -312,8 +312,14 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-#devicon {
+section#skills i {
   font-size: 5em;
+}
+
+@media (max-width: 992px) {
+  section#skills i {
+    font-size: 4em;
+  }
 }
 
 .company {
