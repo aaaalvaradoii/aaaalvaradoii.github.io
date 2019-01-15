@@ -314,13 +314,19 @@ header.masthead .intro-text .intro-heading {
 
 section#skills i {
   font-size: 5em;
+  padding-left: 30px;
 }
 
 @media (max-width: 992px) {
-  section#skills i {
-    font-size: 4em;
-  }
+  
 }
+
+@media (max-width: 470px) {
+  section#skills i {
+    padding-left: auto;
+    padding-right: auto;
+  }
+} 
 
 .company {
   margin-bottom: 50px;
