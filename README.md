@@ -6,7 +6,7 @@ Welcome to my website.
 Here is a list of repositories of the packages that I used in some elements of my site:
 
 
-UI Framework: Bootstrap Agency
+Bootstrap Agency
 
 https://github.com/BlackrockDigital/startbootstrap-agency
 
@@ -16,7 +16,7 @@ Formspree
 https://github.com/formspree
 
 
-Tech Icons: Devicon and FontAwesome
+Devicon and FontAwesome
 
 https://github.com/konpa/devicon/
 
