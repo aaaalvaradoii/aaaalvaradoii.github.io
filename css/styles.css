@@ -252,6 +252,24 @@ section#skills i {
   margin-top: 0;
 }
 
+.company .abt-logo {
+  padding-top: 54px;
+  max-width: 100%;
+  height: auto;
+}
+
+.tool-logo {
+  max-width: 100%;
+  max-height: 225px;
+  padding-left: 30px;
+}
+
+.excel-logo {
+  max-width: 75%;
+  max-height: 225px;
+  padding-left: 30px;
+}
+
 section#contact {
   background-color: #212529;
   /* background-image: url("../img/map-image.png"); */
