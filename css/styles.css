@@ -250,10 +250,23 @@ section#skills i {
 
 .company p {
   margin-top: 0;
+  position: relative;
 }
 
 .company .abt-logo {
-  padding-top: 54px;
+  padding-top: 0px;
+  max-width: 100%;
+  height: auto;
+}
+
+.company .lm-logo {
+  padding-top: 52px;
+  max-width: 100%;
+  height: auto;
+}
+
+.company .gdl-logo {
+  padding-top: 10px;
   max-width: 100%;
   height: auto;
 }
