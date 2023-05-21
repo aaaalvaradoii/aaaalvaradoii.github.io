@@ -274,12 +274,34 @@ section#skills i {
 .tool-logo {
   max-width: 100%;
   max-height: 225px;
-  padding-left: 30px;
+  /* padding-left: 30px; */
 }
 
 .excel-logo {
-  max-width: 75%;
+  max-width: 65%;
+  max-height: 200px;
+}
+
+.looker-logo {
+  max-width: 100%;
   max-height: 225px;
+  margin-top: 20px;
+}
+
+.dataloader-logo {
+  max-width: 100%;
+  max-height: 225px;
+  margin-top: 45px;
+}
+
+.netsuite-logo {
+  max-width: 100%;
+  max-height: 150px;
+}
+
+.slack-logo {
+  max-width: 100%;
+  max-height: 150px;
   padding-left: 30px;
 }
 
